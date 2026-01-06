@@ -1,4 +1,4 @@
-# piyuswami969
+# payalswami969
 <h1 align="center">Hi 👋, I'm Payal Swami</h1>
 
 <p align="center">
