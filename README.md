@@ -25,7 +25,7 @@
   <a href="https://x.com/piyuswami969" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/piyuswami969" target="_blank">
+  <a href="https://www.linkedin.com/in/payal-swami-1a4517370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
