@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **React**, **DSA**, and **TypeScript**
 - 💬 Ask me about **Web Development**, **Frontend Tech**, and **Responsive Design**
-- 📫 How to reach me: [payalswami.dev@gmail.com](mailto:payalswami.dev@gmail.com)
+- 📫 How to reach me: [payalswami1711@gmail.com](mailto:payalswami.dev@gmail.com)
 - 🌟 Always excited to collaborate on creative coding ideas!
 
 ---
